@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 - You can add the stuff that belongs there one by one.
 - You can diff between working directory, staging area and most recent commit to get there.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Whenever you need to keep track of a version of the repository you feel is clean.
+- You can make changes on the branch and have the possibility to fix stuff in the clean repository at the same time.
