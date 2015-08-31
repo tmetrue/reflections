@@ -13,3 +13,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 - Whenever you need to keep track of a version of the repository you feel is clean.
 - You can make changes on the branch and have the possibility to fix stuff in the clean repository at the same time.
+
+How do the diagrams help you visualize the branch structure?
+- It visualizes what commit is the parent of every commit in the branches you list.
