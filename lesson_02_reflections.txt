@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+- It creates a snapshot of the contents of that directory
+- To tell git that the current directory is a git repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- The staging area hold information about stuff to be commited from the working directory to the repository.
+- User can see whats about to be committed and create a better commit message.
