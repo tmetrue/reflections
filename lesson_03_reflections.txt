@@ -12,3 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
   - Use when you want to work with a repository an other place than where it currently are
 - Branch: When you create/follow a different commit path than the master path
   - Use when you implement a new feature and want to keep the master clean of experiments.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- You can check if it local repository has changes after the last fetch
