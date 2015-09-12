@@ -18,3 +18,16 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - Email: Easy to understand whats going on. Harder to keep track of current version.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- Branch:
+  + Your master is always clean.
+  + Easier to share changes across forks.
+  - More tedious.
+- Master:
+  + Easiest way. No extras.
+  - Your master is not clean.
+  - Hard to share (pull requests) changes across repositories.
+When to use what:
+  Branch: When I work with others or need to keep a clean master.
+  Master: When I work alone on something that don't demand a clean master.
