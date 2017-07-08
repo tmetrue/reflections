@@ -8,7 +8,7 @@ How could having easy access to the entire history of a file make you a more eff
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do
 in Git, vs having versions automatically saved, like Google Docs does?
-+ You are in control
++ You are in control tretre
 + You can keep the commit history logically clean
 - You can forget to commit
 
